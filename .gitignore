@@ -1,0 +1,12 @@
+
+gradle
+.gradle
+build
+
+.settings
+*.swp
+*.swo
+
+images
+node_modules
+
