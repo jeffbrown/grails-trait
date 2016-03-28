@@ -1,6 +1,6 @@
 package main
 
-class WhoAmIController implements WhoAmITrait {
+class WhoAmIController { // implements WhoAmITrait {
 
     def index() { 
       render currentUsername()   
